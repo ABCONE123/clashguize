@@ -1,0 +1,9 @@
+#自用规则，国内
+ - DOMAIN-SUFFIX,icat.vqyt.cn
+ - DOMAIN-SUFFIX,baidu.com
+ - DOMAIN-SUFFIX,blog.csdn.net
+ - DOMAIN-SUFFIX,zhihu.com
+ - DOMAIN-SUFFIX,duitang.com
+ - DOMAIN-SUFFIX,www.gjtq.cloud
+ - DOMAIN-SUFFIX,user.jsyml.cn
+ - DOMAIN-SUFFIX,cloud.jiduyun.cn
